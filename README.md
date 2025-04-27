@@ -1,6 +1,6 @@
-# UTS Kecerdasan Buatan 2024/2025
-**Nama:** (Isi Nama Kamu)  
-**NIM:** (Isi NIM Kamu)  
+# UTS Kecerdasan Buatan 
+**Nama:** ANDREAN KOSASIH  
+**NIM:** 2306028 
 **Dosen:** Leni Fitriani, S.T., M.Kom
 
 ---
