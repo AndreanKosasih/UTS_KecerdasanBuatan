@@ -1,6 +1,7 @@
 # UTS Kecerdasan Buatan 2024/2025
 
 **Nama:** Andrean kosasih 
+
 **NIM:** 2306028  
 **Dosen:** Leni Fitriani, S.T., M.Kom
 
