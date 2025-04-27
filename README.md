@@ -1,4 +1,4 @@
-# UTS Kecerdasan Buatan 2024/2025
+# UTS Kecerdasan Buatan 2025
 
 **Nama:** Andrean kosasih 
 
